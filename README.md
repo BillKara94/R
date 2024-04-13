@@ -1,2 +1,1 @@
-# R
-##first file
+# Example of README
